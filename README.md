@@ -1,8 +1,17 @@
-# React + Vite
+This is the ugraded UI ( Frontend design ) of the CEAT -  TyrePlex Dealer UI 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+It is developed using React with NPM 
 
-Currently, two official plugins are available:
+Therefore to successfully run this project,
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1) You can either clone this project and hit
+   ## -- npm install
+   in your folder followed by
+   ## -- npm run dev
+
+2) You can also download the zip folder of this project and extract it to your desired folder and the rest is the same
+
+
+   ## Bonus
+   You can also check out the link to see how the new UI of the TyrePlex looks like -
+   
